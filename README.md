@@ -10,19 +10,24 @@ This file is the report. Fill it in as you go. How to start: `START_HERE.md`. Th
 
 The 9 lines your program prints on your data (`java -cp out Main`):
 
-    Mutations:
-    Shared core:
-    Marker hits:
-    First hit:
-    Border length:
-    Shared words:
-    Tests needed:
-    Cheapest testing:
-    Longest chain:
+    Mutations: 100
+    Shared core: 990
+    Marker hits: 6
+    First hit: 845
+    Border length: 4
+    Shared words: 345
+    Tests needed: 26
+    Cheapest testing: 106
+    Longest chain: 25
+
 
 My outbreak report (a screenshot of `output/outbreak.html`):
 
 ![outbreak](output/outbreak.png)
+![outbreak](output/outbreak1.png)
+![outbreak](output/outbreak2.png)
+![outbreak](output/outbreak3.png)
+![outbreak](output/outbreak4.png)
 
 ## Questions
 
