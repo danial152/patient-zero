@@ -6,7 +6,7 @@
  */
 public class Strains {
 
-    /**
+    /** s
      * Mission 1. The smallest number of single-letter changes that turn a into b. One change is: replace a letter,
      * insert a letter, or delete a letter. This number is the "Mutations" line.
      * Example: "ACGT" -> "AGT" is 1 (delete C). "GATTACA" -> "GCATGCA" needs 3.
